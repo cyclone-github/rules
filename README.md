@@ -8,56 +8,35 @@ These rules have proven to be very effective against recent database leaks.
 
 Test results and comparison with other rules:
 
-Test set: stockx plaintext - 1.9 m
+`Test set: stockx plaintext - 1.9 m`
 
-Wordlist: Rockyou/phpbb
-
+### Wordlist: Rockyou/phpbb
+```
 no.rules................(2.70%)
-
 best64..................(6.86%)
-
 cyclone_mini............(22.39%)
-
 T0XlC...................(22.66%)
-
 top_1500................(24.84%)
-
 cyclone_250.............(26.57%)
-
 top_5000................(39.22%)
-
 d3ad0ne.................(41.12%)
-
 cyclone_1500............(41.58%)
-
 OneRuleToRuleThemAll....(50.77%)
-
 cyclone_5000............(51.58%)
-
 cyclone_mst.............(61.86%)
-
-Wordlist: Hashkiller (jan 2020)
-
+```
+### Wordlist: Hashkiller (jan 2020)
+```
 no.rules................(34.50%)
-
 best64..................(37.98%)
-
 cyclone_mini............(52.77%)
-
 T0XlC...................(54.66%)
-
 top_1500................(58.71%)
-
 cyclone_250.............(59.01%)
-
 top_5000................(71.54%)
-
 cyclone_1500............(71.73%)
-
 d3ad0ne.................(75.83%)
-
 cyclone_5000............(79.25%)
-
 OneRuleToRuleThemAll....(79.64%)
-
 cyclone_mst.............(86.10%)
+```
