@@ -3,6 +3,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/cyclone-github/rules.svg)](https://github.com/cyclone-github/rules/issues)
 [![License](https://img.shields.io/github/license/cyclone-github/rules.svg)](LICENSE)
 
+# Various collection of hashcat rules
+
 # hashpwn rules
 Check out a set of high performing rules released on hashpwn. These perform similar to the `cyclone_*` rulesets.
 https://forum.hashpwn.net/post/170
