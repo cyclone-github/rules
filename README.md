@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyclone-github&repo=rules&theme=gruvbox)](https://github.com/cyclone-github/rules/)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=cyclone-github&repo=rules&theme=gruvbox)](https://github.com/cyclone-github/rules/)
 
 [![GitHub issues](https://img.shields.io/github/issues/cyclone-github/rules.svg)](https://github.com/cyclone-github/rules/issues)
 [![License](https://img.shields.io/github/license/cyclone-github/rules.svg)](LICENSE)
